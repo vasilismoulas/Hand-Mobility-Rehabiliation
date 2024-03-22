@@ -1,1 +1,4 @@
-
+#Ignore media files
+*.mp4
+*.zip
+*.wav
